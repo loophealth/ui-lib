@@ -1,0 +1,23 @@
+{
+  "name": "@loophealth/ui-lib",
+  "version": "1.0.0",
+  "description": "loop health UI lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loophealth/ui-lib.git"
+  },
+  "keywords": [
+    "core-ui",
+    "react"
+  ],
+  "author": "Koka Easwarendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loophealth/ui-lib/issues"
+  },
+  "homepage": "https://github.com/loophealth/ui-lib#readme"
+}
