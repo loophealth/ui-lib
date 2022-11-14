@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/loophealth/ui-lib/issues"
   },
+  "publishConfig": {
+    "@loophealth:registry": "https://npm.pkg.github.com"
+  },
   "homepage": "https://github.com/loophealth/ui-lib#readme"
 }
